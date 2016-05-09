@@ -1,0 +1,12 @@
+C:\Ludosity\Steamworks\XNA\XNA\bin\x86\Release\steam_api.dll
+C:\Ludosity\Steamworks\XNA\XNA\bin\x86\Release\steam_appid.txt
+C:\Ludosity\Steamworks\XNA\XNA\bin\x86\Release\Content\MainFont.xnb
+C:\Ludosity\Steamworks\XNA\XNA\bin\x86\Release\XNA.exe
+C:\Ludosity\Steamworks\XNA\XNA\bin\x86\Release\XNA.pdb
+C:\Ludosity\Steamworks\XNA\XNA\bin\x86\Release\SteamworksManaged.dll
+C:\Ludosity\Steamworks\XNA\XNA\bin\x86\Release\SteamworksManaged.pdb
+C:\Ludosity\Steamworks\XNA\XNA\bin\x86\Release\SteamworksManaged.xml
+C:\Ludosity\Steamworks\XNA\XNA\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Ludosity\Steamworks\XNA\XNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Ludosity\Steamworks\XNA\XNA\obj\x86\Release\XNA.exe
+C:\Ludosity\Steamworks\XNA\XNA\obj\x86\Release\XNA.pdb

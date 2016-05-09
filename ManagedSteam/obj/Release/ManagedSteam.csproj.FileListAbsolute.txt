@@ -1,0 +1,8 @@
+C:\Ludosity\Steamworks\ManagedSteam\bin\Release\SteamworksManaged.XML
+C:\Ludosity\Steamworks\ManagedSteam\bin\Release\SteamworksManaged.dll
+C:\Ludosity\Steamworks\ManagedSteam\bin\Release\SteamworksManaged.pdb
+C:\Ludosity\Steamworks\ManagedSteam\bin\Release\SteamworksManaged.dll.CodeAnalysisLog.xml
+C:\Ludosity\Steamworks\ManagedSteam\bin\Release\SteamworksManaged.dll.lastcodeanalysissucceeded
+C:\Ludosity\Steamworks\ManagedSteam\obj\Release\ResolveAssemblyReference.cache
+C:\Ludosity\Steamworks\ManagedSteam\obj\Release\SteamworksManaged.dll
+C:\Ludosity\Steamworks\ManagedSteam\obj\Release\SteamworksManaged.pdb

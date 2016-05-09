@@ -1,0 +1,6 @@
+C:\Ludosity\Steamworks\ManagedSteam\bin\Debug\SteamworksManaged.XML
+C:\Ludosity\Steamworks\ManagedSteam\bin\Debug\SteamworksManaged.dll
+C:\Ludosity\Steamworks\ManagedSteam\bin\Debug\SteamworksManaged.pdb
+C:\Ludosity\Steamworks\ManagedSteam\obj\Debug\ResolveAssemblyReference.cache
+C:\Ludosity\Steamworks\ManagedSteam\obj\Debug\SteamworksManaged.dll
+C:\Ludosity\Steamworks\ManagedSteam\obj\Debug\SteamworksManaged.pdb

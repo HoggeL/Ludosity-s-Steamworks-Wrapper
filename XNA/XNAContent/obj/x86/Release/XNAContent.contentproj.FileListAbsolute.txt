@@ -1,0 +1,1 @@
+C:\Ludosity\Steamworks\XNA\XNAContent\obj\x86\Release\ResolveAssemblyReference.cache
